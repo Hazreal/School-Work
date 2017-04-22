@@ -1,0 +1,10 @@
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\bin\Debug\SoapClient.exe.config
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\bin\Debug\SoapClient.exe
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\bin\Debug\SoapClient.pdb
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\bin\Debug\SoapClient.xml
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\obj\Debug\SoapClient.Form1.resources
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\obj\Debug\SoapClient.Resources.resources
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\obj\Debug\SoapClient.vbproj.GenerateResource.Cache
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\obj\Debug\SoapClient.exe
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\obj\Debug\SoapClient.xml
+c:\users\haz\documents\visual studio 2013\Projects\SoapClient\SoapClient\obj\Debug\SoapClient.pdb
